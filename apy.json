@@ -225,179 +225,179 @@
   "single": [],
   "lps": [
     {
-      "totalUsdtValue": 109776023.11303842,
-      "tokenPriceInUsdt": 65294.28001700822,
+      "totalUsdtValue": 109776409.19923727,
+      "tokenPriceInUsdt": 65294.6028061631,
       "poolWeight": 0.2728,
       "symbol": "HBTC/USDT",
-      "apy": 64.24020928577143
+      "apy": 64.36177492022784
     },
     {
-      "totalUsdtValue": 79739427.50949195,
-      "tokenPriceInUsdt": 4702.207285847505,
+      "totalUsdtValue": 79701508.35025725,
+      "tokenPriceInUsdt": 4696.612033630091,
       "poolWeight": 0.2653,
       "symbol": "ETH/USDT",
-      "apy": 86.00708157112324
+      "apy": 86.21113774318675
     },
     {
-      "totalUsdtValue": 39343741.592729785,
-      "tokenPriceInUsdt": 1.0000332289349863,
+      "totalUsdtValue": 39342175.66433977,
+      "tokenPriceInUsdt": 0.9999677431557669,
       "poolWeight": 0.0585,
       "symbol": "HUSD/USDT",
-      "apy": 38.43707062273164
+      "apy": 38.5114756604208
     },
     {
-      "totalUsdtValue": 3884085.950672646,
-      "tokenPriceInUsdt": 271.44754538772537,
+      "totalUsdtValue": 3858222.5173896467,
+      "tokenPriceInUsdt": 268.35121512122305,
       "poolWeight": 0.0074,
       "symbol": "HLTC/USDT",
-      "apy": 49.25076293860786
+      "apy": 49.674913037913434
     },
     {
-      "totalUsdtValue": 1252755.241877425,
-      "tokenPriceInUsdt": 678.0434069091533,
+      "totalUsdtValue": 1252686.2377444794,
+      "tokenPriceInUsdt": 677.8261045562706,
       "poolWeight": 0.0051,
       "symbol": "HBCH/USDT",
-      "apy": 105.23834800234101
+      "apy": 105.44367575995427
     },
     {
-      "totalUsdtValue": 1807876.108707709,
-      "tokenPriceInUsdt": 48.89374695726055,
+      "totalUsdtValue": 1805207.6408504522,
+      "tokenPriceInUsdt": 48.884041232032466,
       "poolWeight": 0.0074,
       "symbol": "HDOT/USDT",
-      "apy": 105.8115627881687
+      "apy": 106.168877028439
     },
     {
-      "totalUsdtValue": 3059408.4588008597,
-      "tokenPriceInUsdt": 63.71894393816657,
+      "totalUsdtValue": 3059789.2122733016,
+      "tokenPriceInUsdt": 63.7364417032125,
       "poolWeight": 0.0124,
       "symbol": "HFIL/USDT",
-      "apy": 104.7741862862857
+      "apy": 104.9597634208336
     },
     {
-      "totalUsdtValue": 7869544.675911285,
-      "tokenPriceInUsdt": 0.9007861570238301,
+      "totalUsdtValue": 7881491.357220851,
+      "tokenPriceInUsdt": 0.9024946037765426,
       "poolWeight": 0.0522,
       "symbol": "MDX/USDT",
-      "apy": 171.47111518290103
+      "apy": 171.53579768777675
     },
     {
-      "totalUsdtValue": 138521.0651277021,
-      "tokenPriceInUsdt": 10.040967805605401,
+      "totalUsdtValue": 138784.2383332492,
+      "tokenPriceInUsdt": 10.060065859204041,
       "poolWeight": 0,
       "symbol": "WHT/HUSD",
       "apy": 0
     },
     {
-      "totalUsdtValue": 21585889.243419666,
-      "tokenPriceInUsdt": 10.040967805605401,
+      "totalUsdtValue": 21563050.51330994,
+      "tokenPriceInUsdt": 10.060340274199019,
       "poolWeight": 0.0632,
       "symbol": "WHT/USDT",
-      "apy": 75.68628843654773
+      "apy": 75.9100967783803
     },
     {
-      "totalUsdtValue": 1092404.7883179393,
-      "tokenPriceInUsdt": 0.00830739734739695,
+      "totalUsdtValue": 1085954.826375368,
+      "tokenPriceInUsdt": 0.008245951419034878,
       "poolWeight": 0.0018,
       "symbol": "HPT/USDT",
-      "apy": 42.59503550428551
+      "apy": 42.9292609947778
     },
     {
-      "totalUsdtValue": 3499510.3689064872,
-      "tokenPriceInUsdt": 0.9007859083544381,
+      "totalUsdtValue": 3519237.594607653,
+      "tokenPriceInUsdt": 0.9024945501157237,
       "poolWeight": 0.0099,
       "symbol": "MDX/WHT",
-      "apy": 73.13040600275937
+      "apy": 72.85834020638868
     },
     {
-      "totalUsdtValue": 271877.26402083936,
-      "tokenPriceInUsdt": 0.09038861704091229,
+      "totalUsdtValue": 272119.964491947,
+      "tokenPriceInUsdt": 0.09038923437787842,
       "poolWeight": 0.0016,
       "symbol": "FILDA/HUSD",
-      "apy": 152.1308060696994
+      "apy": 152.28328761232862
     },
     {
-      "totalUsdtValue": 145326.26849777595,
-      "tokenPriceInUsdt": 0.03093678427543177,
+      "totalUsdtValue": 145297.02238511932,
+      "tokenPriceInUsdt": 0.03092478537057373,
       "poolWeight": 0.0014,
       "symbol": "LHB/USDT",
-      "apy": 249.03132988740632
+      "apy": 249.553685755878
     },
     {
-      "totalUsdtValue": 589545.1576338648,
-      "tokenPriceInUsdt": 316.51101307394794,
+      "totalUsdtValue": 589545.155655347,
+      "tokenPriceInUsdt": 316.51101094632526,
       "poolWeight": 0.0031,
       "symbol": "AAVE/USDT",
-      "apy": 135.92980437442344
+      "apy": 136.18751199847625
     },
     {
-      "totalUsdtValue": 772797.3732712825,
-      "tokenPriceInUsdt": 10.018057988230357,
+      "totalUsdtValue": 773730.6283872289,
+      "tokenPriceInUsdt": 10.047540452308098,
       "poolWeight": 0.0033,
       "symbol": "SNX/USDT",
-      "apy": 110.38711350931717
+      "apy": 110.46299600395892
     },
     {
-      "totalUsdtValue": 1376766.338790985,
-      "tokenPriceInUsdt": 25.823675658450533,
+      "totalUsdtValue": 1374998.2033846187,
+      "tokenPriceInUsdt": 25.757106763700964,
       "poolWeight": 0.0057,
       "symbol": "UNI/USDT",
-      "apy": 107.02486558733419
+      "apy": 107.36565849683512
     },
     {
-      "totalUsdtValue": 1042366.8580298078,
-      "tokenPriceInUsdt": 36.32187641976689,
+      "totalUsdtValue": 1038331.17399444,
+      "tokenPriceInUsdt": 36.14470053616469,
       "poolWeight": 0.0044,
       "symbol": "LINK/USDT",
-      "apy": 109.11944703005227
+      "apy": 109.75124372940736
     },
     {
-      "totalUsdtValue": 453747.8070933702,
-      "tokenPriceInUsdt": 24.91022879775978,
+      "totalUsdtValue": 452943.34757347,
+      "tokenPriceInUsdt": 24.88238533706984,
       "poolWeight": 0.0019,
       "symbol": "BAL/USDT",
-      "apy": 108.24532192464548
+      "apy": 108.64315837674658
     },
     {
-      "totalUsdtValue": 292016.7470623075,
-      "tokenPriceInUsdt": 34774.84097146934,
+      "totalUsdtValue": 291462.0084921198,
+      "tokenPriceInUsdt": 34645.400458167474,
       "poolWeight": 0.0019,
       "symbol": "YFI/USDT",
-      "apy": 168.1960981537265
+      "apy": 168.8357124165249
     },
     {
-      "totalUsdtValue": 628253.5536137098,
-      "tokenPriceInUsdt": 65294.28713661372,
+      "totalUsdtValue": 629676.8610428827,
+      "tokenPriceInUsdt": 65294.62007428776,
       "poolWeight": 0.0011,
       "symbol": "HBTC/WHT",
-      "apy": 45.26138152996496
+      "apy": 45.24469009396576
     },
     {
-      "totalUsdtValue": 1533966.826738196,
-      "tokenPriceInUsdt": 4702.240217632944,
+      "totalUsdtValue": 1534509.9799097874,
+      "tokenPriceInUsdt": 4696.609491516614,
       "poolWeight": 0.0021,
       "symbol": "ETH/WHT",
-      "apy": 35.38941646006549
+      "apy": 35.443960554455785
     },
     {
-      "totalUsdtValue": 61536235.57654629,
-      "tokenPriceInUsdt": 65294.28776045647,
+      "totalUsdtValue": 61536571.253091365,
+      "tokenPriceInUsdt": 65294.62166143157,
       "poolWeight": 0.0895,
       "symbol": "HBTC/ETH",
-      "apy": 37.59777847890756
+      "apy": 37.66885403130636
     },
     {
-      "totalUsdtValue": 1282441.7780215675,
-      "tokenPriceInUsdt": 65294.28776045647,
+      "totalUsdtValue": 1281299.7779035752,
+      "tokenPriceInUsdt": 65294.623225405405,
       "poolWeight": 0.0049,
       "symbol": "HBTC/MDX",
-      "apy": 98.77078309623172
+      "apy": 99.04624063629038
     },
     {
-      "totalUsdtValue": 1468616.0926005105,
-      "tokenPriceInUsdt": 4702.24656664383,
+      "totalUsdtValue": 1466153.3020786352,
+      "tokenPriceInUsdt": 4696.609257716397,
       "poolWeight": 0.0049,
       "symbol": "ETH/MDX",
-      "apy": 86.24975535044057
+      "apy": 86.55842874652978
     }
   ],
   "time": "2021-05-19 13:54"
