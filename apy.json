@@ -223,6 +223,14 @@
     }
   ],
   "single": [],
-  "lps": [],
+  "lps": [
+    {
+      "totalUsdtValue": 83458061.57054618,
+      "tokenPriceInUsdt": 47216.46154744924,
+      "poolWeight": 0.3239,
+      "symbol": "HBTC/USDT",
+      "apy": 43.94478968044849
+    }
+  ],
   "time": "2021-05-19 13:54"
 }
